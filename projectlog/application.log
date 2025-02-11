@@ -1,0 +1,73 @@
+2025-01-26 18:11:43,887  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:11:43,894  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:11:43,895  INFO [main] TestBase:46 - initialising a browseer with namechrome
+2025-01-26 18:11:43,895  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:11:43,897  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:11:52,284  INFO [main] TestBase:37 - launching an application
+2025-01-26 18:11:52,284  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:11:52,287  INFO [main] TestBase:32 - value found in the property file for the url
+2025-01-26 18:11:56,928  INFO [main] TestBase:51 - chrome browser initialising
+2025-01-26 18:12:29,847  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:12:29,853  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:12:29,854  INFO [main] TestBase:46 - initialising a browseer with namechrome
+2025-01-26 18:12:29,854  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:12:29,855  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:12:31,914  INFO [main] TestBase:37 - launching an application
+2025-01-26 18:12:31,915  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:12:31,917  INFO [main] TestBase:32 - value found in the property file for the url
+2025-01-26 18:12:35,050  INFO [main] TestBase:51 - chrome browser initialising
+2025-01-26 18:13:55,408  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:13:55,415  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:13:55,416  INFO [main] TestBase:46 - initialising a browseer with namechrome
+2025-01-26 18:13:55,417  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:13:55,418  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:14:06,278  INFO [main] TestBase:37 - launching an application
+2025-01-26 18:14:06,279  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:14:06,280  INFO [main] TestBase:32 - value found in the property file for the url
+2025-01-26 18:15:08,908  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:15:08,912  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:15:08,913  INFO [main] TestBase:46 - initialising a browseer with namechrome
+2025-01-26 18:15:08,914  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:15:08,915  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:15:13,950  INFO [main] TestBase:37 - launching an application
+2025-01-26 18:15:13,950  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:15:13,953  INFO [main] TestBase:32 - value found in the property file for the url
+2025-01-26 18:15:18,249  INFO [main] TestBase:51 - chrome browser initialising
+2025-01-26 18:17:32,172  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:17:32,180  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:17:32,181  INFO [main] TestBase:46 - initialising a browseer with namechrome
+2025-01-26 18:17:32,182  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:17:32,184  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:17:34,162  INFO [main] TestBase:37 - launching an application
+2025-01-26 18:17:34,163  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:17:34,165  INFO [main] TestBase:32 - value found in the property file for the url
+2025-01-26 18:17:37,838  INFO [main] TestBase:51 - chrome browser initialising
+2025-01-26 18:23:03,732  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:23:03,753  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:23:03,753  INFO [main] TestBase:46 - initialising a browseer with namechrome
+2025-01-26 18:23:03,756  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:23:03,758  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-26 18:23:06,353  INFO [main] TestBase:37 - launching an application
+2025-01-26 18:23:06,355  INFO [main] TestBase:24 - reading a property from property file
+2025-01-26 18:23:06,356  INFO [main] TestBase:32 - value found in the property file for the url
+2025-01-26 18:23:10,185  INFO [main] TestBase:51 - chrome browser initialising
+2025-01-26 18:23:10,253  INFO [main] TestBase:35 - Test suite starting
+2025-01-26 18:23:10,312  INFO [main] TestBase:12 - Test case is starting with name: test01
+2025-01-26 18:23:11,695  INFO [main] TestBase:16 - Test case is passed with name : test01
+2025-01-26 18:23:11,701  INFO [main] TestBase:12 - Test case is starting with name: test02
+2025-01-26 18:23:11,710  INFO [main] TestBase:26 - Test case is skipped name : test02
+2025-01-26 18:23:11,719  INFO [main] TestBase:12 - Test case is starting with name: test02
+2025-01-26 18:23:11,727  INFO [main] TestBase:26 - Test case is skipped name : test02
+2025-01-26 18:23:11,732  INFO [main] TestBase:12 - Test case is starting with name: test02
+2025-01-26 18:23:11,759  INFO [main] TestBase:20 - Test case is failed with name : test02
+2025-01-26 18:23:11,957  INFO [main] TestBase:22 - Screenshot Captured failed test case
+2025-01-26 18:23:12,048  INFO [main] TestBase:39 - Test suite finished
+2025-01-30 14:35:25,586  INFO [main] TestBase:24 - reading a property from property file
+2025-01-30 14:35:25,610  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-30 14:35:25,611  INFO [main] TestBase:46 - initialising a browseer with namechrome
+2025-01-30 14:35:25,611  INFO [main] TestBase:24 - reading a property from property file
+2025-01-30 14:35:25,613  INFO [main] TestBase:32 - value found in the property file for the browser
+2025-01-30 14:35:36,505  INFO [main] TestBase:37 - launching an application
+2025-01-30 14:35:36,506  INFO [main] TestBase:24 - reading a property from property file
+2025-01-30 14:35:36,510  INFO [main] TestBase:32 - value found in the property file for the url
+2025-01-30 14:35:44,161  INFO [main] TestBase:51 - chrome browser initialising
